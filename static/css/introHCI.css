@@ -1,16 +1,17 @@
 /* applies to anything of class "example-class-selector" */
-.example-class-selector {
+.top_margin{
 	margin-top: 2em;
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
-.example-class-selector p {
+.aqua {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
-	color: #CC00AA;
+	color: #05A8B3;
 }
 
 /* add a project selector ↓ */
 .project {
+     background-color: rgb(175,238,238);
      margin-left: 20px;
 }
 
